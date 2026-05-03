@@ -7,3 +7,4 @@ This project involves the design and configuration of a hierarchical network for
 * **Topology:** 3-router architecture (Sales, HR, and Central Backbone).
 * **Routing:** Configured using RIP (Routing Information Protocol).
 * **Connectivity:** Tested and verified via Ping commands between all departments.
+![Network Topology](topology.png)
